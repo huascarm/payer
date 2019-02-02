@@ -1,2 +1,2 @@
-# payer
+# Payer
 Payer coin repository
